@@ -46,10 +46,15 @@ data.agg.hour <- merge(x=dist.per.hour.avg,y=dist.per.hour.sum,by.x="Group.1",by
 colnames(data.agg.hour) <- c("hour","dist.avg","dist.sum")
 # 
 data.s.fly <- data.s[data.s$fly,]
-data.s.fly.agg.time <- aggregate(data.s.fly$hour,by=list(data.s.fly$date),FUN=min)
+data.s.fly.agg.time.min <- aggregate(data.s.fly$hour,by=list(data.s.fly$date),FUN=min)
+data.s.fly.agg.time.max <- aggregate(data.s.fly$hour,by=list(data.s.fly$date),FUN=max)
+data.s.fly.agg.temp.avg <- aggregate(data.s.fly$temp,by=list(data.s.fly$date),FUN=mean)
 data.s.fly.agg.country <- aggregate(data.s.fly$country,by=list(data.s.fly$date),FUN=function(c){c[1]})
-data.s.fly.agg <- merge(x=data.s.fly.agg.country,y=data.s.fly.agg.time,by=c("Group.1"))
-colnames(data.s.fly.agg) <- c("date","country","hour")
+data.s.fly.agg <- merge(x=data.s.fly.agg.country,y=data.s.fly.agg.time.min,by=c("Group.1"))
+data.s.fly.agg <- merge(x=data.s.fly.agg,y=data.s.fly.agg.time.max,by=c("Group.1"))
+data.s.fly.agg <- merge(x=data.s.fly.agg,y=data.s.fly.agg.temp.avg,by=c("Group.1"))
+colnames(data.s.fly.agg) <- c("date","country","start","end","temp")
+data.s.fly.agg <- cbind(data.s.fly.agg,hours=data.s.fly.agg$end-data.s.fly.agg$start+1)
 # some helpful vars
 countries.count <- length(unique(c(data.s$country[!is.na(data.s$country)])))
 colors <- terrain.colors(countries.count)
@@ -71,20 +76,51 @@ panel.smoother <- function(x, y) {
 #detach(data.s)
 #paste0(sprintf("%02d",1:15),"haha")
 
-
+# distance per hour per country
 xyplot(dist~datetime|cut(date,4),data=data.s,groups=country, auto.key = list(points=T,space="right"),type="o",scales=list(cex=.8,relation="free"))
+# distance per day per country
 barchart(dist~date,data=data.agg.coutry,groups=country, 
          auto.key = list(points=T,space="right"),horizontal=F,
          scales=list(cex=.5, x=list(rot=45)),stack=T,draw.key = TRUE,
-         par.settings=list(superpose.polygon=list(col=colors)))
-
+         par.settings=list(superpose.polygon=list(col=colors),superpose.symbol=list(col=colors)))
 # temparature per day
 xyplot(temp~datetime,data=data.s,groups=country, auto.key = list(points=T,space="right"),
        type="l",scales=list(cex=.8),
        par.settings=list(superpose.lines=list(col=colors)))
+# 
+xyplot(c(start,hours,temp)~date,data=data.s.fly.agg,groups=country,type="o",
+        auto.key = list(points=T,space="right"),
+        scales=list(x=list(rot=45)),
+        par.settings=list(superpose.polygon=list(col=colors),superpose.symbol=list(col=colors)),
+        panel=function(x,y,...){
+           print(x)
+           print(y)
+           panel.grid(h=-1,v=-1)
+           panel.barchart(x,y[seq(1,length(y)/3)],horizontal=F,stack=T,...)
+           panel.xyplot(x,y[seq(length(y)/3+1,length(y)/3*2)],type="l",identifier="hours",lwd=2)
+           panel.xyplot(x,y[seq(length(y)/3*2+1,length(y))],type="l",identifier="temp",lwd=2,col="red")
+         })
 
+           #panel.xyplot(x[seq(length(x)/2+1,length(x))],y[seq(length(y)/2+1,length(y))],...,type="o")
+           #panel.barchart(x,c(y[seq(1,length(y)/2)],rep(0,length(y)/2)),...)
 
-         #col=colors)
+barchart(start + hours~date,data=data.s.fly.agg,groups=country,
+         horizontal=F,stack=F,panel=function(x,y,...){
+           #panel.xyplot(x[seq(length(x)/2+1,length(x))],y[seq(length(y)/2+1,length(y))],...,type="o")
+           #panel.barchart(x,c(y[seq(1,length(y)/2)],rep(0,length(y)/2)),...)
+           panel.barchart(x,y,...)
+         })
+
+panel.grid()
+panel.barchart(x[seq(1,length(x)/2)],y[seq(1,length(y)/2)],...)
+panel.xyplot(x[seq(1,length(y),2)],y[seq(1,length(y),2)],...,type="o")
+panel.xyplot(x[length(y)/2:length(y)],y[length(y)/2:length(y)],...,type="o")
+[seq(1,length(y),2)]
+,groups=country
+auto.key = list(points=T,space="right")
+scales=list(cex=.8, x=list(rot=45)),stack=T,
+par.settings=list(superpose.polygon=list(col=colors)),
+#col=colors)
 
 
 xyplot(dist~datetime,groups=country, auto.key = list(points=T,space="right"),type="o")
