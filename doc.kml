@@ -15,22 +15,22 @@
 				<styleUrl>#sh_placemark_circle_highlight</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id="sh_placemark_circle_highlight">
+		<Style id="sn_placemark_circle">
 			<IconStyle>
 				<color>ff00ffff</color>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
 			</IconStyle>
 			<LabelStyle>
 				<scale>0.7</scale>
 			</LabelStyle>
 		</Style>
-		<Style id="sn_placemark_circle">
+		<Style id="sh_placemark_circle_highlight">
 			<IconStyle>
 				<color>ff00ffff</color>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
 			</IconStyle>
 			<LabelStyle>
@@ -13582,6 +13582,1425 @@ Activity:</description>
 					</Point>
 				</Placemark>
 			</Folder>
+			<Folder>
+				<name>2013-10-15</name>
+				<Placemark>
+					<name>CZEA01 2013-10-15 05:00 [233]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 10:03
+Date and time of GPS position: 2013-10-15 05:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 46</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>34.559816,5.093699,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 06:00 [234]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 10:03
+Date and time of GPS position: 2013-10-15 06:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 46</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>34.537466,5.084449,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 07:00 [235]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 10:03
+Date and time of GPS position: 2013-10-15 07:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 37.0 st. C
+Activity: 46</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>34.41395,4.925682,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 08:00 [236]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 10:03
+Date and time of GPS position: 2013-10-15 08:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 35.0 st. C
+Activity: 46</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>34.260766,4.678649,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 09:00 [237]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 15:41
+Date and time of GPS position: 2013-10-15 09:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 13
+GPS interval: 3
+VHF interval: 0
+Temperature: 35.0 st. C
+Activity: 45</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>33.964866,4.392283,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 10:00 [238]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 15:41
+Date and time of GPS position: 2013-10-15 10:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 13
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 45</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>33.690266,4.076832,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 11:00 [239]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 15:41
+Date and time of GPS position: 2013-10-15 11:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 13
+GPS interval: 3
+VHF interval: 0
+Temperature: 35.0 st. C
+Activity: 45</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>33.477566,3.674032,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 12:00 [240]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-15 15:41
+Date and time of GPS position: 2013-10-15 12:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 13
+GPS interval: 3
+VHF interval: 0
+Temperature: 39.0 st. C
+Activity: 45</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>33.288299,3.393983,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 15:00 [241]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-15 15:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.803966,2.998533,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 16:00 [242]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-15 16:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.804033,2.998566,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 17:00 [243]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-15 17:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.804083,2.998583,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 18:00 [244]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-15 18:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.8039,2.998533,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-15 19:00 [245]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-15 19:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 30.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.80395,2.998499,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>2013-10-16</name>
+				<Placemark>
+					<name>CZEA01 2013-10-16 03:00 [246]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-16 03:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 29.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.804183,2.998349,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 04:00 [247]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-16 04:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 16
+GPS interval: 3
+VHF interval: 0
+Temperature: 29.0 st. C
+Activity: 65</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.8041,2.998349,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 05:00 [248]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-16 05:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 16
+GPS interval: 3
+VHF interval: 0
+Temperature: 30.0 st. C
+Activity: 65</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.8041,2.998449,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 06:00 [249]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-16 06:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 16
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 65</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.80385,2.998483,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 07:00 [250]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 09:01
+Date and time of GPS position: 2013-10-16 07:00
+Battery state: 4,08
+VHF telemetry: off
+GSM signal level: 16
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 65</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.758266,2.878066000000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 08:00 [251]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 13:00
+Date and time of GPS position: 2013-10-16 08:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 7,
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity: 27</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.608466,2.5548,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 09:00 [252]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 13:00
+Date and time of GPS position: 2013-10-16 09:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 7,
+GPS interval: 3
+VHF interval: 0
+Temperature: 37.0 st. C
+Activity: 27</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.430166,2.183933,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 10:00 [253]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 13:00
+Date and time of GPS position: 2013-10-16 10:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 7,
+GPS interval: 3
+VHF interval: 0
+Temperature: 28.0 st. C
+Activity: 27</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.310066,1.830367,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 11:00 [254]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 13:00
+Date and time of GPS position: 2013-10-16 11:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 7,
+GPS interval: 3
+VHF interval: 0
+Temperature: 26.0 st. C
+Activity: 27</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.307116,1.816333,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 12:00 [255]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 17:00
+Date and time of GPS position: 2013-10-16 12:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 29.0 st. C
+Activity: 40</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.307033,1.816516,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 13:00 [256]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 17:00
+Date and time of GPS position: 2013-10-16 13:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 40</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.310466,1.813683,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 14:00 [257]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 17:00
+Date and time of GPS position: 2013-10-16 14:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 40</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.306483,1.822483,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 15:00 [258]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 17:00
+Date and time of GPS position: 2013-10-16 15:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 40</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.30355,1.821817,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 16:00 [259]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 21:00
+Date and time of GPS position: 2013-10-16 16:00
+Battery state: 4,14
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 19</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.303466,1.820017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 17:00 [260]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 21:00
+Date and time of GPS position: 2013-10-16 17:00
+Battery state: 4,14
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 19</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.30385,1.820133,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 18:00 [261]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 21:00
+Date and time of GPS position: 2013-10-16 18:00
+Battery state: 4,14
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 19</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.303666,1.820083,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-16 19:00 [262]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-16 21:00
+Date and time of GPS position: 2013-10-16 19:00
+Battery state: 4,14
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 19</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.303466,1.819983,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>2013-10-17</name>
+				<Placemark>
+					<name>CZEA01 2013-10-17 03:00 [263]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 08:00
+Date and time of GPS position: 2013-10-17 03:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 29.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.303316,1.819933,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 04:00 [264]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 08:00
+Date and time of GPS position: 2013-10-17 04:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 28.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.303383,1.820017,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 05:00 [265]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 08:00
+Date and time of GPS position: 2013-10-17 05:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 29.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.303466,1.820083,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 06:00 [266]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 08:00
+Date and time of GPS position: 2013-10-17 06:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.303483,1.8201,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 07:00 [267]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 12:00
+Date and time of GPS position: 2013-10-17 07:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 28</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.285733,1.76065,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 08:00 [268]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 12:00
+Date and time of GPS position: 2013-10-17 08:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 35.0 st. C
+Activity: 28</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.170749,1.494149,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 09:00 [269]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 12:00
+Date and time of GPS position: 2013-10-17 09:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 36.0 st. C
+Activity: 28</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>32.024049,1.241249,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 10:00 [270]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 12:00
+Date and time of GPS position: 2013-10-17 10:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 35.0 st. C
+Activity: 28</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.836416,0.988683,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 11:00 [271]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 16:01
+Date and time of GPS position: 2013-10-17 11:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity: 41</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.664583,0.5633,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 12:00 [272]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 16:01
+Date and time of GPS position: 2013-10-17 12:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 41</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.5002,0.215166,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 13:00 [273]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 16:01
+Date and time of GPS position: 2013-10-17 13:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity: 41</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.389366,-0.068949,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 14:00 [274]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 16:01
+Date and time of GPS position: 2013-10-17 14:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 29.0 st. C
+Activity: 41</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.228649,-0.223066,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 15:00 [275]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 20:01
+Date and time of GPS position: 2013-10-17 15:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 14
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 26</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.203466,-0.251933,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 16:00 [276]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 20:01
+Date and time of GPS position: 2013-10-17 16:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 14
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 26</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.20365,-0.251766,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 17:00 [277]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 20:01
+Date and time of GPS position: 2013-10-17 17:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 14
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 26</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.203133,-0.25185,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 18:00 [278]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-17 20:01
+Date and time of GPS position: 2013-10-17 18:00
+Battery state: 4,17
+VHF telemetry: off
+GSM signal level: 14
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 26</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.20365,-0.251716,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-17 19:00 [279]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 07:00
+Date and time of GPS position: 2013-10-17 19:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 10
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity: 4</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.20365,-0.25175,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>2013-10-18</name>
+				<Placemark>
+					<name>CZEA01 2013-10-18 03:00 [280]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 07:00
+Date and time of GPS position: 2013-10-18 03:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 10
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 4</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.2037,-0.251716,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 04:00 [281]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 07:00
+Date and time of GPS position: 2013-10-18 04:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 10
+GPS interval: 3
+VHF interval: 0
+Temperature: 28.0 st. C
+Activity: 4</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.204783,-0.251266,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 05:00 [282]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 07:00
+Date and time of GPS position: 2013-10-18 05:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 10
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 4</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.205566,-0.250916,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 06:00 [283]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 11:02
+Date and time of GPS position: 2013-10-18 06:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 30.0 st. C
+Activity: 21</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.222382,-0.295666,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 07:00 [284]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 11:02
+Date and time of GPS position: 2013-10-18 07:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 21</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.241649,-0.688899,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 08:00 [285]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 11:02
+Date and time of GPS position: 2013-10-18 08:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity: 21</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.235533,-1.1053,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 09:00 [286]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 11:02
+Date and time of GPS position: 2013-10-18 09:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 17
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity: 21</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.187049,-1.583799,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 10:00 [287]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 15:01
+Date and time of GPS position: 2013-10-18 10:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 33</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>31.109033,-2.093049,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 11:00 [288]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 15:01
+Date and time of GPS position: 2013-10-18 11:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 33</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.936633,-2.666,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 12:00 [289]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 15:01
+Date and time of GPS position: 2013-10-18 12:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 26.0 st. C
+Activity: 33</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.735283,-2.971783,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 13:00 [290]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 15:01
+Date and time of GPS position: 2013-10-18 13:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 8,
+GPS interval: 3
+VHF interval: 0
+Temperature: 29.0 st. C
+Activity: 33</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.727367,-3.2593,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 14:00 [291]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 19:00
+Date and time of GPS position: 2013-10-18 14:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 24.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.60135,-3.65995,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 15:00 [292]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 19:00
+Date and time of GPS position: 2013-10-18 15:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 27.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.665416,-4.011916,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 16:00 [293]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 19:00
+Date and time of GPS position: 2013-10-18 16:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 30.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.71456600000001,-4.105616,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 17:00 [294]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-18 19:00
+Date and time of GPS position: 2013-10-18 17:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 31</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.714666,-4.10555,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 18:00 [295]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 09:15
+Date and time of GPS position: 2013-10-18 18:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 35</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.714366,-4.105583,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-18 19:00 [296]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 09:15
+Date and time of GPS position: 2013-10-18 19:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 35</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.714333,-4.1056,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>2013-10-19</name>
+				<Placemark>
+					<name>CZEA01 2013-10-19 03:00 [297]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 09:15
+Date and time of GPS position: 2013-10-19 03:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity: 35</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.714633,-4.1056,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 04:00 [298]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 09:15
+Date and time of GPS position: 2013-10-19 04:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 27.0 st. C
+Activity: 35</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.715333,-4.10675,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 05:00 [299]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 09:15
+Date and time of GPS position: 2013-10-19 05:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 28.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.7171,-4.106566,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 06:00 [300]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 09:15
+Date and time of GPS position: 2013-10-19 06:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 33.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.717317,-4.10575,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 07:00 [301]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 09:15
+Date and time of GPS position: 2013-10-19 07:00
+Battery state: 4,16
+VHF telemetry: off
+GSM signal level: 15
+GPS interval: 3
+VHF interval: 0
+Temperature: 31.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.681999,-4.162083,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 08:00 [302]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 10:00
+Date and time of GPS position: 2013-10-19 08:00
+Battery state: 4,19
+VHF telemetry: off
+GSM signal level: 11
+GPS interval: 3
+VHF interval: 0
+Temperature: 35.0 st. C
+Activity: 11</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.527799,-4.407116,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 09:00 [303]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 15:45
+Date and time of GPS position: 2013-10-19 09:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 37.0 st. C
+Activity: 53</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.368799,-4.76775,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 10:00 [304]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 15:45
+Date and time of GPS position: 2013-10-19 10:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 53</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.237699,-5.147016,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 11:00 [305]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 15:45
+Date and time of GPS position: 2013-10-19 11:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 53</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.167632,-5.340933,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 12:00 [306]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 15:45
+Date and time of GPS position: 2013-10-19 12:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 34.0 st. C
+Activity: 53</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.082916,-5.535683,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 13:00 [307]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 15:45
+Date and time of GPS position: 2013-10-19 13:00
+Battery state: 4,13
+VHF telemetry: off
+GSM signal level: 12
+GPS interval: 3
+VHF interval: 0
+Temperature: 35.0 st. C
+Activity:</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.1622,-5.687949,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 14:00 [308]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 18:00
+Date and time of GPS position: 2013-10-19 14:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 32.0 st. C
+Activity: 29</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.365966,-5.863733,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 15:00 [309]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 18:00
+Date and time of GPS position: 2013-10-19 15:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 28.0 st. C
+Activity: 29</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.452633,-6.089948999999999,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CZEA01 2013-10-19 16:00 [310]</name>
+					<description>Name: CZEA01
+Mobile number: 48603372075
+Date and time of receive SMS: 2013-10-19 18:00
+Date and time of GPS position: 2013-10-19 16:00
+Battery state: 4,15
+VHF telemetry: off
+GSM signal level: 9,
+GPS interval: 3
+VHF interval: 0
+Temperature: 27.0 st. C
+Activity: 29</description>
+					<styleUrl>#msn_placemark_circle0</styleUrl>
+					<Point>
+						<coordinates>30.578366,-6.175699000000001,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
 		</Folder>
 		<Folder>
 			<name>PATHS</name>
@@ -13607,7 +15026,7 @@ Activity:</description>
 				<LineString>
 					<extrude>1</extrude>
 					<coordinates>
-						35.719017,34.072416,0 35.7187,34.071732,0 35.718833,34.071532,0 35.718,34.071882,0 35.652033,34.040666,0 35.536333,33.815216,0 35.450266,33.520099,0 35.41075,33.209416,0 35.3052,32.924849,0 35.226132,32.600266,0 35.103216,32.381199,0 35.017099,32.070899,0 35.011416,31.818583,0 35.011383,31.818517,0 35.0116,31.81855,0 35.011566,31.818367,0 35.01135,31.818617,0 35.011583,31.818617,0 35.0115,31.8183,0 35.011416,31.818583,0 35.010716,31.8191,0 34.900116,31.7303,0 34.687583,31.50435,0 34.502616,31.272649,0 34.232099,31.043349,0 34.081866,30.779767,0 33.693233,29.554766,0 33.693216,29.554733,0 33.693499,29.554583,0 33.693149,29.55475,0 33.693099,29.554716,0 33.693816,29.553483,0 33.693733,29.553183,0 33.693583,29.553233,0 33.693649,29.5534,0 33.691266,29.556833,0 33.434983,29.50051600000001,0 33.074399,29.379532,0 32.868582,29.490916,0 32.794649,29.628432,0 32.647249,29.859483,0 32.614083,29.871582,0 32.611983,29.872799,0 32.387916,29.890649,0 32.132266,29.50145,0 32.015533,29.076082,0 32.116083,28.78115,0 32.116266,28.781133,0 32.116066,28.781167,0 32.11595,28.781183,0 32.116066,28.78115,0 32.116033,28.7811,0 32.115983,28.781167,0 32.115766,28.780633,0 32.113183,28.50080000000001,0 32.161816,28.140299,0 32.314483,27.619299,0 32.513816,27.045149,0 32.823133,26.513016,0 33.249599,26.120216,0 33.722883,25.775967,0 34.174382,25.440599,0 34.318466,25.182016,0 34.419616,25.162033,0 34.419749,25.161916,0 34.419749,25.161916,0 34.419666,25.161916,0 34.419732,25.16215,0 34.419682,25.1617,0 34.419699,25.161833,0 34.420216,25.1579,0 34.395149,24.9015,0 34.354866,24.585083,0 34.382149,24.198166,0 34.587116,23.795349,0 34.77535,23.409733,0 34.849366,22.998883,0 34.895266,22.60895,0 35.144599,22.291949,0 35.126299,21.992783,0 35.135099,21.990883,0 35.135116,21.990849,0 35.135033,21.990849,0 35.134933,21.990866,0 35.135199,21.991033,0 35.135083,21.990516,0 35.135099,21.990633,0 35.132799,21.982183,0 35.1141,21.724733,0 35.117166,21.434683,0 35.042599,21.126016,0 34.96995,20.716533,0 34.95395,20.288116,0 34.90995,19.845699,0 34.9034,19.524266,0 34.893883,19.037299,0 34.874366,18.512283,0 34.990516,18.267549,0 34.990466,18.267532,0 34.990116,18.267199,0 34.990116,18.267266,0 34.990199,18.266916,0 34.989983,18.266832,0 34.769067,18.067282,0 34.612116,17.887833,0 34.400866,17.644499,0 34.265733,17.362116,0 34.250816,16.98275,0 34.278816,16.550016,0 34.382682,16.10165,0 34.334283,15.877916,0 34.3547,15.9805,0 34.3547,15.980483,0 34.354766,15.980417,0 34.354683,15.9804,0 34.353083,15.98035,0 34.352883,15.98035,0 34.355033,15.978967,0 34.355016,15.97875,0 34.476982,15.875049,0 34.607616,15.659033,0 34.664283,15.381966,0 34.698349,15.026916,0 34.636916,14.628732,0 34.655683,14.2604,0 34.740933,13.896299,0 34.677899,13.600883,0 34.738333,13.398483,0 34.755183,13.250966,0 34.755283,13.251,0 34.755333,13.250966,0 34.755166,13.250933,0 34.755216,13.251,0 34.754733,13.250816,0 34.754866,13.250866,0 34.755133,13.250683,0 34.744116,13.227049,0 34.679266,13.05185,0 34.535016,12.884583,0 34.422432,12.796299,0 34.678366,12.444499,0 34.678566,12.444116,0 34.678649,12.444066,0 34.678532,12.444066,0 34.678432,12.444133,0 34.678466,12.443933,0 34.678599,12.443899,0 34.678399,12.443949,0 34.678582,12.443766,0 34.678532,12.443866,0 34.678616,12.443749,0 34.678499,12.443849,0 34.633983,12.467082,0 34.687433,12.441733,0 34.687333,12.441883,0 34.698949,12.429882,0 34.745583,12.3117,0 34.745749,12.31165,0 34.744199,12.3126,0 34.744216,12.312566,0 34.744266,12.3126,0 34.744183,12.312533,0 34.744166,12.312633,0 34.744066,12.312966,0 34.744083,12.313016,0 34.744083,12.313016,0 34.744083,12.313016,0 34.744099,12.313066,0 34.744099,12.313066,0 34.744099,12.313066,0 34.744349,12.3077,0 34.744349,12.3077,0 34.744349,12.3077,0 34.634883,12.092233,0 34.634883,12.092233,0 34.634883,12.092233,0 34.56645,11.821817,0 34.407133,11.529182,0 34.242516,11.206583,0 34.137633,10.787533,0 33.890483,10.409866,0 33.75365,10.142999,0 33.767233,10.125432,0 33.767217,10.125382,0 33.7671,10.125466,0 33.76735,10.125516,0 33.767117,10.125249,0 33.767017,10.125349,0 33.767067,10.125366,0 33.76725,10.125216,0 33.767117,10.125316,0 33.767217,10.125249,0 33.75595,9.9705,0 33.746933,9.777666999999999,0 33.7778,9.555332999999999,0 33.856266,9.247465999999999,0 33.869832,8.988116,0 33.998349,8.686499,0 34.185199,8.248932999999999,0 34.186416,8.248733,0 34.186983,8.248683,0 34.186783,8.248666,0 34.147783,8.214765999999999,0 34.147816,8.120532000000001,0 34.238299,7.932982000000001,0 34.114633,7.712816,0 34.081216,7.566699000000001,0 34.080316,7.429949,0 34.084399,7.198816,0 34.284233,7.043033000000001,0 34.447966,6.967133,0 34.440149,6.966033,0 34.440133,6.965983,0 34.440016,6.9659,0 34.440083,6.965999999999999,0 34.439999,6.965983,0 34.440033,6.965932999999999,0 34.440149,6.965883,0 34.441649,6.964266,0 34.4562,6.811565999999999,0 34.509633,6.596566,0 34.429066,6.323382,0 34.46595,6.289666,0 34.494033,6.223732,0 34.675666,6.00535,0 34.724933,5.746699,0 34.788149,5.4064,0 34.616166,5.080416,0 34.559733,5.093683,0 34.559766,5.093683,0 34.559683,5.093833,0 34.5597,5.093816,0 
+						35.719017,34.072416,0 35.7187,34.071732,0 35.718833,34.071532,0 35.718,34.071882,0 35.652033,34.040666,0 35.536333,33.815216,0 35.450266,33.520099,0 35.41075,33.209416,0 35.3052,32.924849,0 35.226132,32.600266,0 35.103216,32.381199,0 35.017099,32.070899,0 35.011416,31.818583,0 35.011383,31.818517,0 35.0116,31.81855,0 35.011566,31.818367,0 35.01135,31.818617,0 35.011583,31.818617,0 35.0115,31.8183,0 35.011416,31.818583,0 35.010716,31.8191,0 34.900116,31.7303,0 34.687583,31.50435,0 34.502616,31.272649,0 34.232099,31.043349,0 34.081866,30.779767,0 33.693233,29.554766,0 33.693216,29.554733,0 33.693499,29.554583,0 33.693149,29.55475,0 33.693099,29.554716,0 33.693816,29.553483,0 33.693733,29.553183,0 33.693583,29.553233,0 33.693649,29.5534,0 33.691266,29.556833,0 33.434983,29.50051600000001,0 33.074399,29.379532,0 32.868582,29.490916,0 32.794649,29.628432,0 32.647249,29.859483,0 32.614083,29.871582,0 32.611983,29.872799,0 32.387916,29.890649,0 32.132266,29.50145,0 32.015533,29.076082,0 32.116083,28.78115,0 32.116266,28.781133,0 32.116066,28.781167,0 32.11595,28.781183,0 32.116066,28.78115,0 32.116033,28.7811,0 32.115983,28.781167,0 32.115766,28.780633,0 32.113183,28.50080000000001,0 32.161816,28.140299,0 32.314483,27.619299,0 32.513816,27.045149,0 32.823133,26.513016,0 33.249599,26.120216,0 33.722883,25.775967,0 34.174382,25.440599,0 34.318466,25.182016,0 34.419616,25.162033,0 34.419749,25.161916,0 34.419749,25.161916,0 34.419666,25.161916,0 34.419732,25.16215,0 34.419682,25.1617,0 34.419699,25.161833,0 34.420216,25.1579,0 34.395149,24.9015,0 34.354866,24.585083,0 34.382149,24.198166,0 34.587116,23.795349,0 34.77535,23.409733,0 34.849366,22.998883,0 34.895266,22.60895,0 35.144599,22.291949,0 35.126299,21.992783,0 35.135099,21.990883,0 35.135116,21.990849,0 35.135033,21.990849,0 35.134933,21.990866,0 35.135199,21.991033,0 35.135083,21.990516,0 35.135099,21.990633,0 35.132799,21.982183,0 35.1141,21.724733,0 35.117166,21.434683,0 35.042599,21.126016,0 34.96995,20.716533,0 34.95395,20.288116,0 34.90995,19.845699,0 34.9034,19.524266,0 34.893883,19.037299,0 34.874366,18.512283,0 34.990516,18.267549,0 34.990466,18.267532,0 34.990116,18.267199,0 34.990116,18.267266,0 34.990199,18.266916,0 34.989983,18.266832,0 34.769067,18.067282,0 34.612116,17.887833,0 34.400866,17.644499,0 34.265733,17.362116,0 34.250816,16.98275,0 34.278816,16.550016,0 34.382682,16.10165,0 34.334283,15.877916,0 34.3547,15.9805,0 34.3547,15.980483,0 34.354766,15.980417,0 34.354683,15.9804,0 34.353083,15.98035,0 34.352883,15.98035,0 34.355033,15.978967,0 34.355016,15.97875,0 34.476982,15.875049,0 34.607616,15.659033,0 34.664283,15.381966,0 34.698349,15.026916,0 34.636916,14.628732,0 34.655683,14.2604,0 34.740933,13.896299,0 34.677899,13.600883,0 34.738333,13.398483,0 34.755183,13.250966,0 34.755283,13.251,0 34.755333,13.250966,0 34.755166,13.250933,0 34.755216,13.251,0 34.754733,13.250816,0 34.754866,13.250866,0 34.755133,13.250683,0 34.744116,13.227049,0 34.679266,13.05185,0 34.535016,12.884583,0 34.422432,12.796299,0 34.678366,12.444499,0 34.678566,12.444116,0 34.678649,12.444066,0 34.678532,12.444066,0 34.678432,12.444133,0 34.678466,12.443933,0 34.678599,12.443899,0 34.678399,12.443949,0 34.678582,12.443766,0 34.678532,12.443866,0 34.678616,12.443749,0 34.678499,12.443849,0 34.633983,12.467082,0 34.687433,12.441733,0 34.687333,12.441883,0 34.698949,12.429882,0 34.745583,12.3117,0 34.745749,12.31165,0 34.744199,12.3126,0 34.744216,12.312566,0 34.744266,12.3126,0 34.744183,12.312533,0 34.744166,12.312633,0 34.744066,12.312966,0 34.744083,12.313016,0 34.744083,12.313016,0 34.744083,12.313016,0 34.744099,12.313066,0 34.744099,12.313066,0 34.744099,12.313066,0 34.744349,12.3077,0 34.744349,12.3077,0 34.744349,12.3077,0 34.634883,12.092233,0 34.634883,12.092233,0 34.634883,12.092233,0 34.56645,11.821817,0 34.407133,11.529182,0 34.242516,11.206583,0 34.137633,10.787533,0 33.890483,10.409866,0 33.75365,10.142999,0 33.767233,10.125432,0 33.767217,10.125382,0 33.7671,10.125466,0 33.76735,10.125516,0 33.767117,10.125249,0 33.767017,10.125349,0 33.767067,10.125366,0 33.76725,10.125216,0 33.767117,10.125316,0 33.767217,10.125249,0 33.75595,9.9705,0 33.746933,9.777666999999999,0 33.7778,9.555332999999999,0 33.856266,9.247465999999999,0 33.869832,8.988116,0 33.998349,8.686499,0 34.185199,8.248932999999999,0 34.186416,8.248733,0 34.186983,8.248683,0 34.186783,8.248666,0 34.147783,8.214765999999999,0 34.147816,8.120532000000001,0 34.238299,7.932982000000001,0 34.114633,7.712816,0 34.081216,7.566699000000001,0 34.080316,7.429949,0 34.084399,7.198816,0 34.284233,7.043033000000001,0 34.447966,6.967133,0 34.440149,6.966033,0 34.440133,6.965983,0 34.440016,6.9659,0 34.440083,6.965999999999999,0 34.439999,6.965983,0 34.440033,6.965932999999999,0 34.440149,6.965883,0 34.441649,6.964266,0 34.4562,6.811565999999999,0 34.509633,6.596566,0 34.429066,6.323382,0 34.46595,6.289666,0 34.494033,6.223732,0 34.675666,6.00535,0 34.724933,5.746699,0 34.788149,5.4064,0 34.616166,5.080416,0 34.559733,5.093683,0 34.559766,5.093683,0 34.559683,5.093833,0 34.5597,5.093816,0 34.559816,5.093699,0 34.537466,5.084449,0 34.41395,4.925682,0 34.260766,4.678649,0 33.964866,4.392283,0 33.690266,4.076832,0 33.477566,3.674032,0 33.288299,3.393983,0 32.803966,2.998533,0 32.804033,2.998566,0 32.804083,2.998583,0 32.8039,2.998533,0 32.80395,2.998499,0 32.804183,2.998349,0 32.8041,2.998349,0 32.8041,2.998449,0 32.80385,2.998483,0 32.758266,2.878066000000001,0 32.608466,2.5548,0 32.430166,2.183933,0 32.310066,1.830367,0 32.307116,1.816333,0 32.307033,1.816516,0 32.310466,1.813683,0 32.306483,1.822483,0 32.30355,1.821817,0 32.303466,1.820017,0 32.30385,1.820133,0 32.303666,1.820083,0 32.303466,1.819983,0 32.303316,1.819933,0 32.303383,1.820017,0 32.303466,1.820083,0 32.303483,1.8201,0 32.285733,1.76065,0 32.170749,1.494149,0 32.024049,1.241249,0 31.836416,0.988683,0 31.664583,0.5633,0 31.5002,0.215166,0 31.389366,-0.068949,0 31.228649,-0.223066,0 31.203466,-0.251933,0 31.20365,-0.251766,0 31.203133,-0.25185,0 31.20365,-0.251716,0 31.20365,-0.25175,0 31.2037,-0.251716,0 31.204783,-0.251266,0 31.205566,-0.250916,0 31.222382,-0.295666,0 31.241649,-0.688899,0 31.235533,-1.1053,0 31.187049,-1.583799,0 31.109033,-2.093049,0 30.936633,-2.666,0 30.735283,-2.971783,0 30.727367,-3.2593,0 30.60135,-3.65995,0 30.665416,-4.011916,0 30.71456600000001,-4.105616,0 30.714666,-4.10555,0 30.714366,-4.105583,0 30.714333,-4.1056,0 30.714633,-4.1056,0 30.715333,-4.10675,0 30.7171,-4.106566,0 30.717317,-4.10575,0 30.681999,-4.162083,0 30.527799,-4.407116,0 30.368799,-4.76775,0 30.237699,-5.147016,0 30.167632,-5.340933,0 30.082916,-5.535683,0 30.1622,-5.687949,0 30.365966,-5.863733,0 30.452633,-6.089948999999999,0 30.578366,-6.175699000000001,0 
 					</coordinates>
 				</LineString>
 			</Placemark>
@@ -13650,7 +15069,7 @@ Activity:</description>
 					</IconStyle>
 				</Style>
 				<Point>
-					<coordinates>34.5597,5.093816,0</coordinates>
+					<coordinates>30.578366,-6.175699000000001,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
